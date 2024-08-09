@@ -52,3 +52,6 @@ List of libraries are used in this project
 . poltly
 
 
+Conclusion
+This project successfully identifies and records proximity events between vessels in a marine region using the Haversine formula for distance calculation. The approach leverages vectorization for efficient data processing, providing an effective solution for monitoring vessel interactions in real-time. Future enhancements, such as integrating spatial indexing with a Quadtree, could further optimize the algorithm's performance. This tool is valuable for maritime traffic management and safety monitoring, ensuring vessels operate at safe distances from one another.
+
